@@ -1,6 +1,6 @@
 # GenLayer Spinner Collection
 
-A collection of four original animated spinner concepts designed for the GenLayer Portal.
+A collection of five original animated spinner designs created for the GenLayer Spinner Mission.
 
 Each spinner is provided in three color variants:
 
@@ -8,32 +8,69 @@ Each spinner is provided in three color variants:
 - Black
 - White
 
-## Design Goals
+Each design also includes an animated GIF preview.
 
-- Smooth infinite animation
-- Clear and readable at small sizes
-- Suitable for light and dark backgrounds
-- Original visual identity inspired by GenLayer
-- Web-ready SVG format
+---
 
-## Spinner Concepts
+## Spinner 1
 
-### Spinner 1
-Three color variants exploring a minimal GenLayer-inspired loading motion.
+![Spinner 1](./Spinner%201/GIF%201.gif)
 
-### Spinner 2
-A clean animated concept focused on rhythm and continuous motion.
+- [Blue SVG](./Spinner%201/Blue%201.svg)
+- [Black SVG](./Spinner%201/Black%201.svg)
+- [White SVG](./Spinner%201/White%201.svg)
 
-### Spinner 3
-A geometric loading concept designed for clarity at small sizes.
+---
 
-### Spinner 4
-A distinct GenLayer-inspired motion concept with a smooth infinite loop.
+## Spinner 2
 
-## Files
+![Spinner 2](./Spinner%202/GIF%202.gif)
 
-Each spinner folder contains:
+- [Blue SVG](./Spinner%202/Blue%202.svg)
+- [Black SVG](./Spinner%202/Black%202.svg)
+- [White SVG](./Spinner%202/White%202.svg)
 
-- `Black.svg`
-- `Blue.svg`
-- `White.svg`
+---
+
+## Spinner 3
+
+![Spinner 3](./Spinner%203/GIF%203.gif)
+
+- [Blue SVG](./Spinner%203/Blue%203.svg)
+- [Black SVG](./Spinner%203/Black%203.svg)
+- [White SVG](./Spinner%203/White%203.svg)
+
+---
+
+## Spinner 4
+
+![Spinner 4](./Spinner%204/GIF%204.gif)
+
+- [Blue SVG](./Spinner%204/Blue%204.svg)
+- [Black SVG](./Spinner%204/Black%204.svg)
+- [White SVG](./Spinner%204/White%204.svg)
+
+---
+
+## Spinner 5
+
+![Spinner 5](./Spinner%205/GIF%205.gif)
+
+- [Blue SVG](./Spinner%205/Blue%205.svg)
+- [Black SVG](./Spinner%205/Black%205.svg)
+- [White SVG](./Spinner%205/White%205.svg)
+
+---
+
+## Format
+
+All five spinner concepts are delivered as animated SVG files.
+
+Each concept includes:
+
+- Blue variant
+- Black variant
+- White variant
+- Animated GIF preview
+
+The SVG files are the primary deliverables. GIF files are provided as visual previews.
