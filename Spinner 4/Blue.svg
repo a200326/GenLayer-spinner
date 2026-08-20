@@ -1,0 +1,60 @@
+<svg width="98" height="92" viewBox="0 0 98 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+@keyframes kf_Vector_transform_0 {
+  0% {
+    transform: translateX(14.88px) translateY(13.965px) translateX(-10px) translateY(0px);
+  }
+  25% {
+    animation-timing-function: ease-out;
+    transform: translateX(14.88px) translateY(13.965px) translateX(-10px) translateY(0px);
+  }
+  50% {
+    transform: translateX(14.88px) translateY(13.965px) translateX(0px) translateY(0px);
+  }
+  75% {
+    animation-timing-function: ease-out;
+    transform: translateX(14.88px) translateY(13.965px) translateX(0px) translateY(0px);
+  }
+  100% {
+    transform: translateX(14.88px) translateY(13.965px) translateX(-10px) translateY(0px);
+  }
+}
+#Vector {
+  transform-origin: 0 0;
+  animation: kf_Vector_transform_0 2s linear infinite;
+}
+@keyframes kf_Vector_3_transform_0 {
+  0% {
+    animation-timing-function: ease-out;
+    transform: translateX(51.88px) translateY(13.965px) translateX(10px) translateY(0px);
+  }
+  25% {
+    transform: translateX(51.88px) translateY(13.965px) translateX(0px) translateY(0px);
+  }
+  50% {
+    animation-timing-function: ease-out;
+    transform: translateX(51.88px) translateY(13.965px) translateX(0px) translateY(0px);
+  }
+  75% {
+    transform: translateX(51.88px) translateY(13.965px) translateX(10px) translateY(0px);
+  }
+  100% {
+    transform: translateX(51.88px) translateY(13.965px) translateX(10px) translateY(0px);
+  }
+}
+#Vector_3 {
+  transform-origin: 0 0;
+  animation: kf_Vector_3_transform_0 2s linear infinite;
+}
+</style>
+<g id="GenLayer_Logo_Black_1" clip-path="url(#clip0_3_691)">
+<path id="Vector" transform="translate(14.8799 13.965)" d="M31 22.5215L19.4153 46.7277L30.3206 52.144L0 64L31 0V22.5215Z" fill="#110FFF"/>
+<path id="Vector_2" transform="translate(41.88 43.965)" d="M6.32078 0L13 13.6228L6.32078 17L0 13.6085L6.32078 0Z" fill="#110FFF"/>
+<path id="Vector_3" transform="translate(51.8799 13.965)" d="M0 22.5215L11.5847 46.7277L0.679395 52.144L31 64L0 0V22.5215Z" fill="#110FFF"/>
+</g>
+<defs>
+<clipPath id="clip0_3_691">
+<rect width="97.76" height="91.93" fill="white"/>
+</clipPath>
+</defs>
+</svg>
