@@ -16,9 +16,9 @@ Each design also includes an animated GIF preview.
 
 ![Spinner 1](./Spinner%201/GIF%201.gif)
 
-- [Blue SVG](./Spinner%201/Blue%201.svg)
-- [Black SVG](./Spinner%201/Black%201.svg)
-- [White SVG](./Spinner%201/White%201.svg)
+- [Blue 1 SVG](./Spinner%201/Blue%201.svg)
+- [Black 1 SVG](./Spinner%201/Black%201.svg)
+- [White 1 SVG](./Spinner%201/White%201.svg)
 
 ---
 
@@ -26,9 +26,9 @@ Each design also includes an animated GIF preview.
 
 ![Spinner 2](./Spinner%202/GIF%202.gif)
 
-- [Blue SVG](./Spinner%202/Blue%202.svg)
-- [Black SVG](./Spinner%202/Black%202.svg)
-- [White SVG](./Spinner%202/White%202.svg)
+- [Blue 2 SVG](./Spinner%202/Blue%202.svg)
+- [Black 2 SVG](./Spinner%202/Black%202.svg)
+- [White 2 SVG](./Spinner%202/White%202.svg)
 
 ---
 
@@ -36,9 +36,9 @@ Each design also includes an animated GIF preview.
 
 ![Spinner 3](./Spinner%203/GIF%203.gif)
 
-- [Blue SVG](./Spinner%203/Blue%203.svg)
-- [Black SVG](./Spinner%203/Black%203.svg)
-- [White SVG](./Spinner%203/White%203.svg)
+- [Blue 3 SVG](./Spinner%203/Blue%203.svg)
+- [Black 3 SVG](./Spinner%203/Black%203.svg)
+- [White 3 SVG](./Spinner%203/White%203.svg)
 
 ---
 
@@ -46,9 +46,9 @@ Each design also includes an animated GIF preview.
 
 ![Spinner 4](./Spinner%204/GIF%204.gif)
 
-- [Blue SVG](./Spinner%204/Blue%204.svg)
-- [Black SVG](./Spinner%204/Black%204.svg)
-- [White SVG](./Spinner%204/White%204.svg)
+- [Blue 4 SVG](./Spinner%204/Blue%204.svg)
+- [Black 4 SVG](./Spinner%204/Black%204.svg)
+- [White 4 SVG](./Spinner%204/White%204.svg)
 
 ---
 
@@ -56,9 +56,9 @@ Each design also includes an animated GIF preview.
 
 ![Spinner 5](./Spinner%205/GIF%205.gif)
 
-- [Blue SVG](./Spinner%205/Blue%205.svg)
-- [Black SVG](./Spinner%205/Black%205.svg)
-- [White SVG](./Spinner%205/White%205.svg)
+- [Blue 5 SVG](./Spinner%205/Blue%205.svg)
+- [Black 5 SVG](./Spinner%205/Black%205.svg)
+- [White 5 SVG](./Spinner%205/White%205.svg)
 
 ---
 
